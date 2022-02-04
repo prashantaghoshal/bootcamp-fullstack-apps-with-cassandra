@@ -1,0 +1,8 @@
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
+/workspace/bootcamp-fullstack-apps-with-cassandra/cqlsh-astra/bin/cqlsh \
+	--secure-connect-bundle=/workspace/bootcamp-fullstack-apps-with-cassandra/secure-connect-workshops.zip  \
+	--color \
+	-u lRcMWccXybYmellPvXhKrrTF \
+	-p B93npiGZaLMpXUqPOol3,j9UWJ--D+g8p2CcRMqHWX9q4SKlo1vB3Gv+PdQ7lSc-sA.KY7g5HD,0mjPgBf7AsZZXJm,m14EDchDHsiLwJnn,WNDro1bDyrFKF.nvN+Gt
