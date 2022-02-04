@@ -30,7 +30,6 @@ else:
 print('========================================')
 
 
-#from connection import session
 """
 print('========================================')
 print('Start import')
